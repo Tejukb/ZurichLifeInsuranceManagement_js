@@ -1,4 +1,4 @@
-var a=5,b=10
+var a=5,b=7
 do{
     console.log(a)
     a++

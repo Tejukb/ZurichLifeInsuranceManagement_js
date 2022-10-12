@@ -1,5 +1,5 @@
 var a=10
-var b="10"
+var b="10"                                           //  ==
  if(a==b)
  {
     console.log("a and b are equal ");
@@ -8,10 +8,10 @@ var b="10"
     console.log("a and b are not equal");
  }
 
-
-
- var a=10
-var b="10"
+ 
+//============================================
+var a=10
+var b="10"                                            // ===
  if(a===b)
  {
     console.log("a and b are equal ");
