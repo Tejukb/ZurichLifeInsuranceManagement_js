@@ -15,3 +15,4 @@ else
 {
     console.log("given no are equal");
 }
+

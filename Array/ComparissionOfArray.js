@@ -1,11 +1,11 @@
 var arr=[5,10,15,20,25,30, , , ]
 //=========================================================
-// for (let index = 0; index < arr.length; index++) {
-//       console.log(index+"  "+arr[index])
-//       //continue;                                                    // for loop
-//       //break;
-// }
-// console.log("Hi");
+for (let index = 0; index < arr.length; index++) {
+      console.log(index+"  "+arr[index])
+      //continue;                                                    // for loop
+      //break;
+}
+console.log("Hi");
 //=========================================================
 
 // for (const iterator of arr) {
@@ -27,3 +27,4 @@ var arr=[5,10,15,20,25,30, , , ]
 //     console.log(element,arr);
 // })
 //==========================================================
+

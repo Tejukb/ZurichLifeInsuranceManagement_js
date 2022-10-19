@@ -10,3 +10,5 @@ var c=10              //post increment
 console.log(c);
 result=c++
 console.log(c);
+
+

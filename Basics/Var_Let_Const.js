@@ -13,3 +13,5 @@ console.log(a);    // re-initializing
 // const c=50              //cant re declare
 // const c=60              //cant re initialise
 // console.log(c);
+
+

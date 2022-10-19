@@ -24,13 +24,15 @@
 
 //========================================================
 
-// console.log(string.includes("How"));                               //includes()
+// console.log(string.includes("H"));   
+// console.log(string.includes("How"));                            //includes()
 // console.log(string.includes("india"));
 
 //========================================================
 
 // console.log(string.indexOf("e"));                                 //indexof()
 // console.log(string.indexOf(" "));
+// console.log(string.indexOf("z"));
 
 //=======================================================
 

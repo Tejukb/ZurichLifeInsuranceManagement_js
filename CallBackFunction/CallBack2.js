@@ -15,3 +15,4 @@ function calculate(a,b,operator)
     console.log(operator(a,b));
 }
 calculate(10,5,mul)
+

@@ -1,7 +1,7 @@
 var a=10,b=5,op="+"
 switch(op)
 {
-    case "+" : console.log(("addition of 2 no are"+(a+b)));
+    case "+" : console.log("addition of 2 no are"+(a+b));
                break;
     case "-" : console.log("substration of 2 no are"+(a-b));
                break;
@@ -9,3 +9,5 @@ switch(op)
                break;
     default: console.log("Enter valid op");
 }
+
+     

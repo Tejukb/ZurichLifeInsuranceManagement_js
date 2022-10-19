@@ -14,6 +14,5 @@ var add=(x,y)=>{                     // multi-line arrow function
 }
 console.log(add(50,60));
 
- 
 
 

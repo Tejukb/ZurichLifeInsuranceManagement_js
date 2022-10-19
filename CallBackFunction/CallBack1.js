@@ -11,3 +11,4 @@ function mul(a,b)
     return(a*b)
 }
 calculate(2,4,mul)
+

@@ -17,3 +17,5 @@ var a2={
 }
 a1.check1()
 a2.check2()
+
+
